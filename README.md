@@ -6,13 +6,11 @@
 
 Durante o processo de criação de um Copiloto com fluxo de conversa personalizado, explorei diversas funcionalidades do Microsoft Copilot Studio que me permitiram desenvolver uma experiência interativa e adaptada às necessidades do usuário. 
 
----
 
 ## 🧠 Objetivo do Projeto
 
 Desenvolver um assistente conversacional inteligente e adaptável, utilizando recursos avançados do Copilot Studio para criar uma experiência fluida e contextualizada.
 
----
 
 ## 🔧 Funcionalidades Utilizadas
 
@@ -34,7 +32,6 @@ Desenvolver um assistente conversacional inteligente e adaptável, utilizando re
 - Aprendi a aumentar a qualidade para obter respostas mais elaboradas e detalhadas, ou reduzi-la para interações mais objetivas e rápidas.
 - Esse controle é fundamental para equilibrar profundidade e agilidade na conversa.
 
----
 
 ## ✅ Conclusão
 
